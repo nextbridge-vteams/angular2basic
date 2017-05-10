@@ -5,9 +5,9 @@ import {Component, View} from "angular2/core";
 })
 
 @View({
-  template: '<h2>Hello World !!</h2>'
+  template: '<h2>My First Angular 2 App</h2>'
 })
 
-export class MyHelloWorldClass {
+export class AppComponent {
 
 }
